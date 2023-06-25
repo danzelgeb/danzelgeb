@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-My name is Daniel I'm Owner of the 
-CityCrafterNET Minecraft Network.
+❓ About me ❓
+Hey, I'm TheUnyCraft / UnyTech. I'm currently working on my Minecraft Network TheUnyCraftNET. 
 
-- 📍 near Ffm
-- 🍰 23.04
-- Hobbys: Cooding and Gaming
-- 💻 Java, HTML, CSS, Python
+
 <!--
 **danzelgeb/danzelgeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +17,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+My name is Daniel I'm Owner of the 
+TheUnyCraftNET Minecraft Network.
+
+
+- 📍 near Ffm
+- 🍰 23.04
+- Hobbys: Cooding and Gaming
+- 💻 Java, HTML, CSS, Python
 -->
