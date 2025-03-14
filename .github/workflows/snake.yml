@@ -15,9 +15,10 @@ on:
     - master
 
 jobs:
-  test:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
