@@ -20,8 +20,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg@v3
+      - name: generate github-contribution-grid-snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
 
@@ -29,5 +29,3 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
