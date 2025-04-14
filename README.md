@@ -10,11 +10,11 @@ I'm a passionate **developer** who loves coding, open-source, and learning new t
 
 - 🌱 Currently learning **Rust**, **Kubernetes**
 - 👯 Looking to collaborate on **@VerdoxNET**
-- 📫 Reach me at **[danzel@verdox.net](mailto:danzel@verdox.net)**
+- 📫 Reach me at **[me@danzel.dev](mailto:me@danzel.dev)**
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danzelgeb&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danzelgeb&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danzelgeb&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danzelgeb&count_private=true&layout=compact&theme=radical)
