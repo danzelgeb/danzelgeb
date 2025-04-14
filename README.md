@@ -9,7 +9,7 @@
 I'm a passionate **developer** who loves coding, open-source, and learning new technologies. 🚀
 
 - 🌱 Currently learning **Rust**, **Kubernetes**
-- 👯 Looking to collaborate on **@VerdoxNET**
+- 👯 Looking to collaborate on **@VerdoxNET** and **@VerdoxStudios**
 - 📫 Reach me at **[me@danzel.dev](mailto:me@danzel.dev)**
 
 ---
