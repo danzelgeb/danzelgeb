@@ -6,7 +6,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/danzelgeb/danzelgeb/refs/heads/output/github-snake-dark.svg" />
 </picture>
 
-I'm a passionate **developer** who loves coding, open-source, and learning new technologies. 🚀
+I'm a passionate **developer** and **scout** who loves coding, open-source, and learning new technologies. 🚀
 
 - 🌱 Currently learning **Rust**, **Kubernetes**
 - 👯 Looking to collaborate on **@VerdoxNET** and **@VerdoxStudios**
