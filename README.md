@@ -8,7 +8,7 @@
 
 I'm a passionate **developer** and **scout** who loves coding, open-source, and learning new technologies. 🚀
 
-- 🌱 Currently learning **Rust**, **Kubernetes**
+- 🌱 Currently learning **Rust**, **Kubernetes**, **Webdesign**
 - 👯 Looking to collaborate on **@VerdoxNET** and **@VerdoxStudios**
 - 📫 Reach me at **[me@danzel.dev](mailto:me@danzel.dev)**
 
