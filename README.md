@@ -16,5 +16,5 @@ I'm a passionate **developer** and **scout** who loves coding, open-source, and 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danzelgeb&count_private=true&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danzelgeb&count_private=true&layout=compact&theme=radical)
+![GitHub Stats](https://gh-readme-stats-cyan.vercel.app/api?username=danzelgeb&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://gh-readme-stats-cyan.vercel.app/api/top-langs/?username=danzelgeb&count_private=true&layout=compact&theme=radical)
