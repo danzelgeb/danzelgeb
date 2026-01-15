@@ -10,6 +10,7 @@ I'm a passionate **developer** and **scout** who loves coding, open-source, and 
 
 - 🌱 Currently learning **Rust**, **Kubernetes**, **Webdesign**
 - 👯 Looking to collaborate on **@VerdoxNET** and **@VerdoxStudios**
+- ⌨️ Currently working on my **@danzel-homalab**
 - 📫 Reach me at **[me@danzel.dev](mailto:me@danzel.dev)**
 
 ---
